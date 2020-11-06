@@ -1,0 +1,20 @@
+#cabecera
+{
+	background-color:#0EE9E5;
+	width:100%;
+	color:#0EE9E5;
+	float:left;
+}
+#menu 
+{
+	background-color:#D09E9E;
+	width:50%;
+	color:#FFF;
+	float:left;
+}
+.cuerpo
+{
+	background-color:#E8BEBE;
+	width:50%;
+	float:left;
+}
